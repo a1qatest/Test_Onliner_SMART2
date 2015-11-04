@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1007]C:\Users\e.belyaev\Desktop\CRM  воркает\SMART\bin\Debug\OnlinerTestDemo.dll</TopNode>
+  <SelectedNode>[0-1007]C:\Users\e.belyaev\Desktop\CRM  воркает\SMART\bin\Debug\OnlinerTestDemo.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1007]C:\Users\e.belyaev\Desktop\CRM  воркает\SMART\bin\Debug\OnlinerTestDemo.dll" Expanded="true" />
+    <Node UniqueName="[0-1008]demo" Expanded="true" />
+    <Node UniqueName="[0-1009]demo.framework" Expanded="true" />
+    <Node UniqueName="[0-1010]demo.tests" Expanded="true" />
+    <Node UniqueName="[0-1001]demo.tests.TC_01_login_validation" Expanded="true" />
+    <Node UniqueName="[0-1003]demo.tests.TC_02_user_creation" Expanded="true" />
+    <Node UniqueName="[0-1005]demo.tests.TC_03_Delete_User" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,11 @@
+﻿<xml>
+  <!-- possible values: chrome ; iexplore ; firefox ;-->
+  <browser>chrome</browser>
+  
+  <!-- user account settings -->
+  <username>a1qatest@yandex.ru</username>
+  <password>qwaszx@1</password>
+  <donotremember> a.katyushin@a1qa.com</donotremember>
+  <incorrectpass>qwa</incorrectpass>
+  <newpass> qwaszx@1</newpass>
+</xml>

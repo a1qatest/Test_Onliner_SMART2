@@ -1,0 +1,81 @@
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\OnlinerTestDemo.dll.config
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\OnlinerTestDemo.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\OnlinerTestDemo.pdb
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\ImapX.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\log4net.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\nunit-console-runner.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\nunit.core.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\nunit.core.interfaces.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\nunit.framework.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\nunit.util.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\Rhino.Mocks.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\WebDriver.dll
+D:\Projects\xxx\CRM  воркает\SMART\bin\Debug\WebDriver.Support.dll
+D:\Projects\xxx\CRM  воркает\SMART\obj\Debug\Smart_Framework.csprojResolveAssemblyReference.cache
+D:\Projects\xxx\CRM  воркает\SMART\obj\Debug\OnlinerTestDemo.dll
+D:\Projects\xxx\CRM  воркает\SMART\obj\Debug\OnlinerTestDemo.pdb
+D:\Automatization\Tut\SMART\obj\Debug\Smart_Framework.csprojResolveAssemblyReference.cache
+D:\Automatization\Tut\SMART\obj\Debug\OnlinerTestDemo.dll
+D:\Automatization\Tut\SMART\obj\Debug\OnlinerTestDemo.pdb
+D:\Automatization\Tut\SMART\bin\Debug\OnlinerTestDemo.dll.config
+D:\Automatization\Tut\SMART\bin\Debug\OnlinerTestDemo.dll
+D:\Automatization\Tut\SMART\bin\Debug\OnlinerTestDemo.pdb
+D:\Automatization\Tut\SMART\bin\Debug\ImapX.dll
+D:\Automatization\Tut\SMART\bin\Debug\log4net.dll
+D:\Automatization\Tut\SMART\bin\Debug\nunit-console-runner.dll
+D:\Automatization\Tut\SMART\bin\Debug\nunit.core.dll
+D:\Automatization\Tut\SMART\bin\Debug\nunit.core.interfaces.dll
+D:\Automatization\Tut\SMART\bin\Debug\nunit.framework.dll
+D:\Automatization\Tut\SMART\bin\Debug\nunit.util.dll
+D:\Automatization\Tut\SMART\bin\Debug\Rhino.Mocks.dll
+D:\Automatization\Tut\SMART\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Automatization\Tut\SMART\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Automatization\Tut\SMART\bin\Debug\WebDriver.dll
+D:\Automatization\Tut\SMART\bin\Debug\WebDriver.Support.dll
+D:\Automatization\Tut\SMART\bin\Debug\resources\chromedriver.exe
+D:\Automatization\Tut\SMART\bin\Debug\resources\run.xml
+D:\Automatization\Tut\SMART\bin\Debug\resources\IEDriverServer.exe
+E:\Автоматизация\Tut\SMART\bin\Debug\resources\chromedriver.exe
+E:\Автоматизация\Tut\SMART\bin\Debug\resources\run.xml
+E:\Автоматизация\Tut\SMART\bin\Debug\resources\IEDriverServer.exe
+E:\Автоматизация\Tut\SMART\bin\Debug\OnlinerTestDemo.dll.config
+E:\Автоматизация\Tut\SMART\bin\Debug\OnlinerTestDemo.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\OnlinerTestDemo.pdb
+E:\Автоматизация\Tut\SMART\bin\Debug\ImapX.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\log4net.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\nunit-console-runner.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\nunit.core.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\nunit.core.interfaces.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\nunit.framework.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\nunit.util.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\Rhino.Mocks.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\ThoughtWorks.Selenium.Core.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\WebDriver.dll
+E:\Автоматизация\Tut\SMART\bin\Debug\WebDriver.Support.dll
+E:\Автоматизация\Tut\SMART\obj\Debug\Smart_Framework.csprojResolveAssemblyReference.cache
+E:\Автоматизация\Tut\SMART\obj\Debug\OnlinerTestDemo.dll
+E:\Автоматизация\Tut\SMART\obj\Debug\OnlinerTestDemo.pdb
+D:\Automatization\Onliner\Onliner_2\bin\Debug\resources\chromedriver.exe
+D:\Automatization\Onliner\Onliner_2\bin\Debug\resources\run.xml
+D:\Automatization\Onliner\Onliner_2\bin\Debug\resources\IEDriverServer.exe
+D:\Automatization\Onliner\Onliner_2\bin\Debug\OnlinerTestDemo.dll.config
+D:\Automatization\Onliner\Onliner_2\bin\Debug\OnlinerTestDemo.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\OnlinerTestDemo.pdb
+D:\Automatization\Onliner\Onliner_2\bin\Debug\ImapX.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\log4net.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\nunit-console-runner.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\nunit.core.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\nunit.core.interfaces.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\nunit.framework.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\nunit.util.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\Rhino.Mocks.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\WebDriver.dll
+D:\Automatization\Onliner\Onliner_2\bin\Debug\WebDriver.Support.dll
+D:\Automatization\Onliner\Onliner_2\obj\Debug\OnlinerTestDemo.dll
+D:\Automatization\Onliner\Onliner_2\obj\Debug\OnlinerTestDemo.pdb
+D:\Automatization\Onliner\Onliner_2\obj\Debug\Smart_Framework.csprojResolveAssemblyReference.cache
